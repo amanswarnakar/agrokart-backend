@@ -1,0 +1,22 @@
+{
+  "name": "agrokart-backend",
+  "version": "1.0.0",
+  "description": "Backend for the AgroKart Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanswarnakar/agrokart-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanswarnakar/agrokart-backend/issues"
+  },
+  "homepage": "https://github.com/amanswarnakar/agrokart-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
